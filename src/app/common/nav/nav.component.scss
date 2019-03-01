@@ -1,0 +1,16 @@
+#nav-wrapper {
+  height: 50px;
+  background-color: #c0c0c0;
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  ;
+
+  ul {
+    li {
+      display: inline-block;
+    }
+  }
+}
